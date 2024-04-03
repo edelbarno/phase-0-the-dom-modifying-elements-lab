@@ -128,7 +128,7 @@ inside a DOM element:
 ```js
 li.textContent = "Hi there!";
 // => <li>Hi there!</li>
-console.log(li.textContent);
+c
 // => "Hi there!"
 ```
 
